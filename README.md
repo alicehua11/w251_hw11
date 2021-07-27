@@ -70,14 +70,14 @@ The greatest effects seen in the first and second desnity layers.
 	- Q_new(S,A) <- (1 - alpha)*Q(S,A) + alpha*(current R + gamma * max(Q(S,A))
 
 ### Videos:
-Train:
-	- https://alicehua-w251-hw3.s3.amazonaws.com/episode0.mp4
-	- https://alicehua-w251-hw3.s3.amazonaws.com/episode200.mp4 
-	- https://alicehua-w251-hw3.s3.amazonaws.com/episode450.mp4
-Test:
-	- https://alicehua-w251-hw3.s3.amazonaws.com/testing_run0.mp4
-	- https://alicehua-w251-hw3.s3.amazonaws.com/testing_run50.mp4
-
+Train:  
+	- https://alicehua-w251-hw3.s3.amazonaws.com/episode0.mp4  
+	- https://alicehua-w251-hw3.s3.amazonaws.com/episode200.mp4   
+	- https://alicehua-w251-hw3.s3.amazonaws.com/episode450.mp4  
+Test:  
+	- https://alicehua-w251-hw3.s3.amazonaws.com/testing_run0.mp4  
+	- https://alicehua-w251-hw3.s3.amazonaws.com/testing_run50.mp4  
+  
 ### References:
 - https://github.com/rbraddes/Reinforcement-Learning-Lunar_Lander
 - https://www.novatec-gmbh.de/en/blog/introduction-to-q-learning/
